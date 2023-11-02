@@ -3,7 +3,7 @@ import openai
 import gradio
 
 # Set your OpenAI API key for authentication
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Define an initial message to start the conversation with the AI Chat Assistant
 messages = [{"role": "system", "content": "AI Chat Assistant for all your need"}]
